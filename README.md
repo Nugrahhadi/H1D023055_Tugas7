@@ -628,5 +628,3 @@ Menu drawer navigasi yang menampilkan menu items.
 ![Dialog Logout](Screenshots/logout.png)
 
 Konfirmasi logout yang muncul saat user menekan tombol logout.
-#   H 1 D 0 2 3 0 5 5 _ T u g a s 7  
- 
